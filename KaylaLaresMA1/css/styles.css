@@ -1,0 +1,146 @@
+/* Creating the rectangle box for the header */
+header{ 
+    margin-top: -55px;
+    padding-top: 20px;
+    width: 100%;
+    background-color:#2e483f;
+}
+
+/* Heading header text */
+#drama {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 80px;
+    color: #eab676;
+    text-align: center;
+}
+
+/* Heading sub text */
+li{ 
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 27px;
+    margin-left: 230px;
+    display: inline-block;
+    padding-bottom: 3px;
+    color: #f5dcbf;
+}
+
+/* Body of the page  */
+body { 
+    background-color: #962d15; 
+    margin: 0;
+    font-family: cursive;
+    font-size: 18px;
+    transition: 8s;
+    
+}
+
+/* Transition background color for dramatics */ 
+body:hover{ 
+    background-color: #60371e; 
+}
+
+/* Sub-Headers */
+.main {
+    font-family:'Berkshire Swash', cursive;
+    font-size: 27px; ;
+    color: #eab676;
+    margin-left: 8px;
+}
+
+/* paragraphs */
+p{ 
+    margin-left: 8px;
+    color: white;
+}
+
+/* Images*/
+img{ 
+    margin-left: 28px;
+    height: 500px;
+    width: 400px;
+}
+
+/* Controls the images as well and creates a border box */
+figure { 
+    display: inline-block;
+    box-sizing: border-box;
+    margin-left: 500px;
+    padding: 10px;
+
+}
+
+/* Controls font within the images */
+figcaption { 
+    font: cursive;
+    font-weight: bold;
+    padding: 3px;
+    text-align: center;
+    color: white;
+}
+
+/* Video */ 
+iframe{ 
+    margin-left: 50px;
+}
+
+/*Audio*/
+audio {
+    margin-left: 8px;
+}
+
+/* Sources */
+a { 
+    display: block;
+    color: white;
+    margin-left: 30px;
+}
+
+
+/* footer rectangle box*/
+footer{ 
+        margin-bottom: -20px;
+        padding-top: 0px;
+        width: 100%;
+        background-color:#2e483f;
+
+}
+
+/* footer main text */
+#foot{
+        font-family:'Berkshire Swash', cursive;
+        font-size: 35px;
+        color: #eab676;;
+        padding-top:20px;
+        text-align: center;
+}
+
+/* Policy text for footer */
+.policy{ 
+        font-size: 20px;
+        display: inline-block;
+        margin-right: 80px;
+        color: #f5dcbf;
+}
+
+/* For Icons*/
+i{ 
+    margin-left: 325px;
+    margin-right: 16px;
+    color:#eab676;
+}
+
+/*Copyright text*/
+
+#copy { 
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    color:#eab676;
+    margin-right: 350px;
+
+}
+
+
+
+
+
